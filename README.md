@@ -9,7 +9,8 @@ stream live using any broadcasting software.
 Json-Server, React, Redux, Semantic UI
 
 ### Key Features  
-Stream videos,  RTMP Server
+  - Stream videos  
+  - RTMP Server
 
 
 **In every folder repeat this following tasks**
